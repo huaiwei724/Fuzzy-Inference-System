@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\碩一\柔性計算\HW_03\R11546004王懷葳Ass03Solution\R11546004王懷葳Ass03\obj\Debug\R11546004王懷葳Ass03.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\碩一\柔性計算\HW_03\R11546004王懷葳Ass03Solution\R11546004王懷葳Ass03\obj\Debug\R11546004王懷葳Ass03.Properties.Resources.resources
+C:\Users\User\Desktop\碩一\柔性計算\HW_03\R11546004王懷葳Ass03Solution\R11546004王懷葳Ass03\obj\Debug\R11546004王懷葳Ass03.csproj.GenerateResource.cache
+C:\Users\User\Desktop\碩一\柔性計算\HW_03\R11546004王懷葳Ass03Solution\R11546004王懷葳Ass03\obj\Debug\R11546004王懷葳Ass03.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\碩一\柔性計算\HW_03\R11546004王懷葳Ass03Solution\R11546004王懷葳Ass03\bin\Debug\R11546004王懷葳Ass03.exe.config
+C:\Users\User\Desktop\碩一\柔性計算\HW_03\R11546004王懷葳Ass03Solution\R11546004王懷葳Ass03\bin\Debug\R11546004王懷葳Ass03.exe
+C:\Users\User\Desktop\碩一\柔性計算\HW_03\R11546004王懷葳Ass03Solution\R11546004王懷葳Ass03\bin\Debug\R11546004王懷葳Ass03.pdb
+C:\Users\User\Desktop\碩一\柔性計算\HW_03\R11546004王懷葳Ass03Solution\R11546004王懷葳Ass03\obj\Debug\R11546004王懷葳Ass03.exe
+C:\Users\User\Desktop\碩一\柔性計算\HW_03\R11546004王懷葳Ass03Solution\R11546004王懷葳Ass03\obj\Debug\R11546004王懷葳Ass03.pdb
+C:\Users\User\Desktop\碩一\柔性計算\HW_03\R11546004王懷葳Ass03Solution\R11546004王懷葳Ass03\obj\Debug\R11546004王懷葳Ass03.Form_Main.resources

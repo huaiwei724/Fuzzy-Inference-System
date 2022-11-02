@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="R11546004FuzzySetNamespace.MamdaniRule">
+    <Position X="4.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAACAAAAAAAAAABAAAAAAAAAAAAAASA=</HashCode>
+      <FileName>MamdaniRule.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="R11546004FuzzySetNamespace.FuzzySet">
+    <Position X="1.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAIAAAAQRAEAEAEYBEKYgAQBAJABIoAggBBECCUAEA=</HashCode>
+      <FileName>FuzzySet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="R11546004FuzzySetNamespace.IFuzzySystem">
+    <Position X="4.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAgAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IFuzzySystem.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Microsoft JhengHei UI" Size="9" />
+</ClassDiagram>
